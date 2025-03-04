@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://files.catbox.moe/hj0hur.webp" width="200px">  <!-- Image resized to 200px width for a cool look -->
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">queen-ruva ai</h1>
 </p>
 
-<h1 align="center">
-  Queen Ruva AI Beta - Development by ICONICS-TECH
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+Iconic+Tech;Created+Queen+Ruva+AI;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+</p>
 
 ---
 
