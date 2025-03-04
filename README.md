@@ -3,15 +3,12 @@
 </p>
 
 <h1 align="center">
-  <span class="typewrite" data-period="2000" data-type='["Queen Ruva AI Beta development by ICONICS-TECH"]'></span>
+  <a href="#">
+    <span id="typewriter"></span>
+  </a>
 </h1>
 
-## 👤 <span style="animation: blink 1s infinite; color: red;">Owner:</span> <span style="animation: blink 1s infinite; color: blue;">Iconic</span> <span style="animation: blink 1s infinite; color: green;">Tech</span>  
-
----
-
-## ⚡ **About the Bot**  
-Queen Ruva AI Beta is an advanced AI bot designed for automation, seamless interactions, and enhanced user experiences.  
+## 👤 <span id="blinking-owner">Owner: Iconic Tech</span>
 
 ---
 
@@ -27,21 +24,9 @@ Queen Ruva AI Beta is an advanced AI bot designed for automation, seamless inter
 
 ---
 
-## ☁ **Deploying the Bot**  
-
-### **Katapumb Method**  
-1. Open **Katapumb** and log in.  
-2. Click **Upload** and select the downloaded file.  
-3. Start the bot and check logs for confirmation.  
-4. **Watch the tutorial:**  
-   [![Watch on YouTube](https://img.shields.io/badge/▶️%20Watch%20Guide-red?style=for-the-badge)](https://youtu.be/Pzl43dlPkQw?si=t3zMgaUNkH-UIg8y)  
-
-### **Bot Hosting Panel Method**  
-1. Go to **Bot Hosting Panel** and log in.  
-2. Navigate to **File Manager** and upload the bot file.  
-3. Configure the environment settings and run the bot.  
-4. **Watch the tutorial:**  
-   [![Watch on YouTube](https://img.shields.io/badge/▶️%20Watch%20Guide-red?style=for-the-badge)](https://youtu.be/Pzl43dlPkQw?si=t3zMgaUNkH-UIg8y)  
+## 🎖 **Special Thanks**  
+🔥 **Agung** – API and hosting support  
+👑 **Iconic Tech** – Developer & Maintainer of Queen Ruva AI Beta  
 
 ---
 
@@ -59,24 +44,29 @@ Queen Ruva AI Beta is an advanced AI bot designed for automation, seamless inter
 
 ---
 
-## 🎖 **Special Thanks**  
-🔥 **Agung** – API and hosting support  
-👑 **Iconic Tech** – Developer & Maintainer of Queen Ruva AI Beta  
+## 🚀 **Developed by ICONICS-TECH**  
 
 ---
 
-### 🔹 **Made with ❤️ by ICONICS-TECH**  
+### **JavaScript for Typewriter & Blinking Effect** (For Web Pages)
+GitHub README **doesn't support JavaScript**, but if you use it on a webpage, add this script:
 
-<style>
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0.3; }
-  100% { opacity: 1; }
-}
+```html
+<script>
+  const text = "Queen Ruva AI Beta development by ICONICS-TECH";
+  let i = 0;
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById("typewriter").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 150);
+    }
+  }
+  window.onload = typeWriter;
 
-.typewrite {
-  font-weight: bold;
-  font-size: 22px;
-  color: #ffcc00;
-}
-</style>
+  function blink() {
+    let element = document.getElementById("blinking-owner");
+    element.style.opacity = (element.style.opacity == 0 ? 1 : 0);
+  }
+  setInterval(blink, 500);
+</script>
