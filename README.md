@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://files.catbox.moe/hj0hur.webp" width="600px">
+  <img src="https://files.catbox.moe/hj0hur.webp" width="450px">
 </p>
 
-# 🐍 **Q U E E N _ R U V A _ A I _ B E T A** 🐍  
+<h1 align="center">
+  <span class="typewrite" data-period="2000" data-type='["Queen Ruva AI Beta development by ICONICS-TECH"]'></span>
+</h1>
 
 ## 👤 <span style="animation: blink 1s infinite; color: red;">Owner:</span> <span style="animation: blink 1s infinite; color: blue;">Iconic</span> <span style="animation: blink 1s infinite; color: green;">Tech</span>  
 
@@ -49,7 +51,7 @@ Queen Ruva AI Beta is an advanced AI bot designed for automation, seamless inter
 
 🔹 **WhatsApp Group:**  
 <a href="https://chat.whatsapp.com/LyFPHDvc5vMCglUFjv7Rlp">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18px">
 </a>  
 
 🔹 **WhatsApp Channel:**  
@@ -57,7 +59,13 @@ Queen Ruva AI Beta is an advanced AI bot designed for automation, seamless inter
 
 ---
 
-## 🚀 **Developed by: <span class="typewrite" data-period="2000" data-type='["Iconic Tech"]'></span>**  
+## 🎖 **Special Thanks**  
+🔥 **Agung** – API and hosting support  
+👑 **Iconic Tech** – Developer & Maintainer of Queen Ruva AI Beta  
+
+---
+
+### 🔹 **Made with ❤️ by ICONICS-TECH**  
 
 <style>
 @keyframes blink {
@@ -68,7 +76,7 @@ Queen Ruva AI Beta is an advanced AI bot designed for automation, seamless inter
 
 .typewrite {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 22px;
   color: #ffcc00;
 }
 </style>
