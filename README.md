@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://files.catbox.moe/hj0hur.webp" width="450px">
+  <img src="https://files.catbox.moe/hj0hur.webp" width="200px">  <!-- Image resized to 200px width for a cool look -->
 </p>
 
 <h1 align="center">
-  <a href="#">
-    <span id="typewriter"></span>
-  </a>
+  Queen Ruva AI Beta - Development by ICONICS-TECH
 </h1>
 
-## 👤 <span id="blinking-owner">Owner: Iconic Tech</span>
+---
+
+## 👤 **Owner:** Iconic Tech  
 
 ---
 
@@ -18,8 +18,20 @@
 
 ---
 
-## 📥 **Download the Bot**  
+## 🖥 **Deploying on Render**  
+1. Go to [Render](https://render.com/).
+2. Sign up for a new account or log in to your existing account.
+3. Create a new **Web Service**.
+4. In the **Service Settings**, connect your GitHub repository where Queen Ruva AI Beta is stored.
+5. Add the `.env` file with your session details and any other configuration required.
+6. Deploy the service, and it will automatically start running.
 
+### Watch the tutorial:
+[![Watch on YouTube](https://img.shields.io/badge/▶️%20Watch%20Guide-red?style=for-the-badge)](https://youtu.be/Pzl43dlPkQw?si=t3zMgaUNkH-UIg8y)  
+
+---
+
+## 📥 **Download the Bot**  
 [![⬇️ Download File](https://img.shields.io/badge/⬇️%20Download%20File-green?style=for-the-badge)](YOUR_DIRECT_DOWNLOAD_LINK_HERE)  
 
 ---
@@ -44,29 +56,4 @@
 
 ---
 
-## 🚀 **Developed by ICONICS-TECH**  
-
----
-
-### **JavaScript for Typewriter & Blinking Effect** (For Web Pages)
-GitHub README **doesn't support JavaScript**, but if you use it on a webpage, add this script:
-
-```html
-<script>
-  const text = "Queen Ruva AI Beta development by ICONICS-TECH";
-  let i = 0;
-  function typeWriter() {
-    if (i < text.length) {
-      document.getElementById("typewriter").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, 150);
-    }
-  }
-  window.onload = typeWriter;
-
-  function blink() {
-    let element = document.getElementById("blinking-owner");
-    element.style.opacity = (element.style.opacity == 0 ? 1 : 0);
-  }
-  setInterval(blink, 500);
-</script>
+### 🔹 **Made with ❤️ by ICONICS-TECH**
