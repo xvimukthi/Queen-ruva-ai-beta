@@ -1,5 +1,9 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">queen-ruva ai</h1>
+  <img src="https://files.catbox.moe/hj0hur.webp" alt="Queen Ruva AI" width="100" height="100" />
+</p>
+
+<p align="center">
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em; color: #ffcc00;">queen-ruva ai</h1>
 </p>
 
 <p align="center">
@@ -8,17 +12,17 @@
 
 ---
 
-## 👤 **Owner:** Iconic Tech  
+## 👤 **Owner:** <span style="color: #1E90FF;">Iconic Tech</span>  
 
 ---
 
-## 🔥 **Queen Ruva Beta Tip**  
+## 🔥 **<span style="color: #FF6347;">Queen Ruva Beta Tip</span>**  
 🚀 **Upload the file and deploy where you want.**  
 ❓ **If you don't know how, follow us and watch the videos below!**  
 
 ---
 
-## 🖥 **Deploying on Render**  
+## 🖥 **<span style="color: #32CD32;">Deploying on Render</span>**  
 1. Go to [Render](https://render.com/).
 2. Sign up for a new account or log in to your existing account.
 3. Create a new **Web Service**.
@@ -31,18 +35,18 @@
 
 ---
 
-## 📥 **Download the Bot**  
+## 📥 **<span style="color: #FFD700;">Download the Bot</span>**  
 [![⬇️ Download File](https://img.shields.io/badge/⬇️%20Download%20File-green?style=for-the-badge)](YOUR_DIRECT_DOWNLOAD_LINK_HERE)  
 
 ---
 
-## 🎖 **Special Thanks**  
+## 🎖 **<span style="color: #DC143C;">Special Thanks</span>**  
 🔥 **Agung** – API and hosting support  
 👑 **Iconic Tech** – Developer & Maintainer of Queen Ruva AI Beta  
 
 ---
 
-## 📞 **Connect & Follow Us**  
+## 📞 **<span style="color: #8A2BE2;">Connect & Follow Us</span>**  
 
 🔹 **Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge)](https://t.me/kinetech06)  
 
