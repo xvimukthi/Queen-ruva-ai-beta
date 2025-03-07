@@ -12,12 +12,8 @@
 
 ---
 
-## 📅 **Last Bot Update:**  
-🕒 **Updated on:** <span id="last-update">Fetching...</span>  
-
-<script>
-  document.getElementById("last-update").innerText = new Date().toLocaleString();
-</script>
+## 🕒 Last Bot Update:  
+![Last Update](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&label=Updated%20on)
 
 ---
 
@@ -71,6 +67,14 @@
 
 🔹 **WhatsApp Channel:**  
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-Join%20Now-green?style=for-the-badge)](https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r)  
+
+---
+
+## 🎨 **Made with ❤️ by ICONICS-TECH**  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=20&pause=1000&color=FF0000&vCenter=true&width=200&lines=Made+with+❤️;By+ICONICS-TECH" alt="Made with love SVG" />
+</p>
 
 ---
 
