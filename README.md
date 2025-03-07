@@ -11,9 +11,8 @@
 </p>
 
 ---
-
 ## 🕒 Last Bot Update:  
-![Last Update](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&label=Updated%20on)
+![Last Update](https://img.shields.io/github/last-commit/iconic05/Queen-ruva-ai-beta?style=for-the-badge&label=Updated%20on)
 
 ---
 
@@ -70,12 +69,9 @@
 
 ---
 
-## 🎨 **Made with ❤️ by ICONICS-TECH**  
+## 🎨 **Made with ❤️**  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=20&pause=1000&color=FF0000&vCenter=true&width=200&lines=Made+with+❤️;By+ICONICS-TECH" alt="Made with love SVG" />
 </p>
 
----
-
-### 🔹 **Made with ❤️ by ICONICS-TECH**
