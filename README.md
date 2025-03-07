@@ -12,6 +12,20 @@
 
 ---
 
+## 📅 **Last Bot Update:**  
+🕒 **Updated on:** <span id="last-update">Fetching...</span>  
+
+<script>
+  document.getElementById("last-update").innerText = new Date().toLocaleString();
+</script>
+
+---
+
+## 👋 **Welcome, User!**  
+💬 **Hello there!** Thanks for visiting **Queen Ruva AI Beta**. Feel free to explore, fork, and deploy! 🚀  
+
+---
+
 ## 👤 **Owner:** <span style="color: #1E90FF;">Iconic Tech</span>  
 
 ---
@@ -52,7 +66,7 @@
 
 🔹 **WhatsApp Group:**  
 <a href="https://chat.whatsapp.com/LyFPHDvc5vMCglUFjv7Rlp">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40px">
 </a>  
 
 🔹 **WhatsApp Channel:**  
